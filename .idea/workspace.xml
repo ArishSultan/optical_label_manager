@@ -1,11 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9ff28e1-91d6-4e29-b34c-3da8205e5663" name="Default Changelist" comment="" />
+    <list default="true" id="a9ff28e1-91d6-4e29-b34c-3da8205e5663" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/fonts/helvetica.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/app.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/data.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/data/mixins/contact_mixin.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/data/mixins/output_mixin.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/data/models/output_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/data/models/output_model.g.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/data/models/person-contact_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/ui/modals/bottom-sheets/create-optical-label_bottom-sheet.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/ui/modals/dialogs.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/ui/pages/create-my-qr_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/ui/pages/create-optical-label_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/ui/pages/home_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/ui/pages/inputs/aztec-input_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/ui/pages/inputs/calender-input_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/ui/pages/inputs/codabar.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/ui/pages/inputs/code_128.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/ui/pages/inputs/code_39.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/ui/pages/inputs/code_93.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/ui/pages/inputs/contact-input_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/ui/pages/inputs/data_matrix.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/ui/pages/inputs/ean_13.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/ui/pages/inputs/ean_8.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/ui/pages/inputs/email-input_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/ui/pages/inputs/geo-input_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/ui/pages/inputs/itf.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/ui/pages/inputs/myQR-input_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/ui/pages/inputs/pdf_471.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/ui/pages/inputs/phone-input_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/ui/pages/inputs/sms-input_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/ui/pages/inputs/text-input_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/ui/pages/inputs/upc-a.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/ui/pages/inputs/upc_e.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/ui/pages/inputs/url-input_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/ui/pages/inputs/wifi-input_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/ui/pages/output_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/ui/views/base-input_view.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/ui/views/drawer_view.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/ui/views/favorites_view.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/ui/views/history_view.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/ui/views/output_view.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/ui/views/scanner_view.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/ui/widgets/app-bar.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/ui/widgets/app-text-field-title.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/ui/widgets/app-text-field.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/ui/widgets/favorite-button.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/ui/widgets/list-item_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/ui/widgets/output-header.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/ui/widgets/textfield.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/utils/custom-navigator.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/utils/qr-type.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/optical-label_manager.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/optical-label_manager.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/optical-label_manager.iml" beforeDir="false" afterPath="$PROJECT_DIR$/optical-label_manager.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/widget_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test/widget_test.dart" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="58K6R19815000205" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -24,8 +106,34 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/src/ui/widgets" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Flutter'sProjects\optical-label_manager\lib\src\ui\widgets" />
+      <recent name="E:\Flutter'sProjects\optical-label_manager\lib\src\ui\pages\inputs" />
+      <recent name="$PROJECT_DIR$/assets/fonts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Flutter'sProjects\optical-label_manager\lib\src\ui\views" />
+      <recent name="$PROJECT_DIR$/lib/src/data" />
+      <recent name="$PROJECT_DIR$/lib/src/ui" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -34,7 +142,88 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602086656045</updated>
+      <workItem from="1602086663015" duration="103000" />
+      <workItem from="1602086775937" duration="7690000" />
+      <workItem from="1602094487033" duration="7827000" />
+      <workItem from="1602134749601" duration="1056000" />
+      <workItem from="1602136680682" duration="6259000" />
+      <workItem from="1602144095530" duration="15293000" />
+      <workItem from="1602159583471" duration="100000" />
+      <workItem from="1602180355603" duration="7621000" />
+      <workItem from="1602221199584" duration="1089000" />
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="85" key="#com.intellij.ide.util.MemberChooser" timestamp="1602506967384">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="488" y="85" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1602506967384" />
+    <state x="413" y="116" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602240186234">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="413" y="116" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1602240186234" />
+    <state x="258" y="264" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1602222516193">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state x="258" y="264" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1024.768@0.0.1024.768" timestamp="1602222516193" />
+    <state x="100" y="100" width="760" height="880" key="DiffContextDialog" timestamp="1602151261518">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="100" y="100" width="760" height="880" key="DiffContextDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1602151261518" />
+    <state x="258" y="298" width="424" height="494" key="FileChooserDialogImpl" timestamp="1602159678733">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="258" y="298" width="424" height="494" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1602159678733" />
+    <state width="1323" height="312" key="GridCell.Tab.0.bottom" timestamp="1602507708613">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="976" height="178" key="GridCell.Tab.0.bottom/0.0.1024.768@0.0.1024.768" timestamp="1602221353261" />
+    <state width="1323" height="312" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1602507708613" />
+    <state width="912" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1602187980512" />
+    <state width="1323" height="312" key="GridCell.Tab.0.center" timestamp="1602507708608">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="976" height="178" key="GridCell.Tab.0.center/0.0.1024.768@0.0.1024.768" timestamp="1602221353261" />
+    <state width="1323" height="312" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1602507708608" />
+    <state width="912" height="281" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1602187980511" />
+    <state width="1323" height="312" key="GridCell.Tab.0.left" timestamp="1602507708608">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="976" height="178" key="GridCell.Tab.0.left/0.0.1024.768@0.0.1024.768" timestamp="1602221353260" />
+    <state width="1323" height="312" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1602507708608" />
+    <state width="912" height="281" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1602187980511" />
+    <state width="1323" height="312" key="GridCell.Tab.0.right" timestamp="1602507708613">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="976" height="178" key="GridCell.Tab.0.right/0.0.1024.768@0.0.1024.768" timestamp="1602221353261" />
+    <state width="1323" height="312" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1602507708613" />
+    <state width="912" height="281" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1602187980511" />
+    <state x="379" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1602346531963">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="379" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1602346531963" />
+    <state x="339" y="165" key="run.anything.popup" timestamp="1602506226160">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="339" y="165" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1602506226160" />
+    <state x="102" y="163" width="672" height="464" key="search.everywhere.popup" timestamp="1602508033455">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="102" y="163" width="672" height="464" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1602508033455" />
+    <state x="143" y="239" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1602182953122" />
   </component>
 </project>
